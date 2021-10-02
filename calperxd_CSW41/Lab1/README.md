@@ -9,7 +9,7 @@
 
 # Lab1
 
-####Introdução
+#### Introdução
 Este laboratório consiste em configurar todo o ambiente necessário para o desenvolvimento da disciplina de sistemas embarcados na launchpad da texas.
 
 #### Execução
