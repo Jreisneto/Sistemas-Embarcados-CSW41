@@ -26,6 +26,7 @@ Este laboratório consiste em configurar todo o ambiente necessário para o dese
 ![1](https://user-images.githubusercontent.com/48101913/135729064-b3a82a53-d6ac-4f9e-a2bb-83561e090479.PNG)
 
 5. Selecione o projeto C++ e clique em OK.
+
 ![image](https://user-images.githubusercontent.com/48101913/135729105-e6f9e23b-714c-46ef-b134-9b0b5592381f.png)
 
 6. Agora vá em opções do projeto.
