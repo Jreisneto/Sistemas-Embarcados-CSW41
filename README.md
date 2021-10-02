@@ -6,5 +6,4 @@
 - Aluno: Gabriel Alexandre Linhares Calper Seabra
 - Email: gabrielseabra@alunos.utfpr.edu.br
 
-##### Lab1
-Confiuração do ambiente de desenvolvimento
+<b>Lab1</b> <a href="https://github.com/Calperxd/Sistemas-Embarcados-CSW41/tree/main/calperxd_CSW41/Lab1">Confiuração do ambiente de desenvolvimento</a> 
