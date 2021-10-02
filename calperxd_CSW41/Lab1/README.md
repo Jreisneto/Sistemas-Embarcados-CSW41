@@ -7,12 +7,12 @@
 - Email: gabrielseabra@alunos.utfpr.edu.br
 
 
-#Lab1
+# Lab1
 
 ####Introdução
 Este laboratório consiste em configurar todo o ambiente necessário para o desenvolvimento da disciplina de sistemas embarcados na launchpad da texas.
 
-####Execução
+#### Execução
 1. Primeiro passo foi baixar a IDE da IAR: IAR Embedded Workbench for ARM disponível em https://www.iar.com/products/architectures/arm/iar-embedded-workbench-for-arm/
 
 2. Registrar como “Code size limited”.
