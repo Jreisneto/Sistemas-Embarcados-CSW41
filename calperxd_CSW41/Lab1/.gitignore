@@ -1,6 +1,7 @@
 # Folders
 settings
 Debug
+.ssh
 
 # Files
 *.o
